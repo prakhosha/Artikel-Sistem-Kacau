@@ -15,7 +15,7 @@
 
 **Tidak semua sistem dapat terprediksi**
 
-*Posted on January 2023*
+*Posted on January 2024*
 
 ***
 
