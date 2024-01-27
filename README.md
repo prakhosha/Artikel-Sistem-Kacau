@@ -25,7 +25,7 @@ Proses-proses ini diajarkan kepada kita saat berkuliah sesuai bidang masing-masi
 
 Kebanyakan, proses yang diajarkan pada strata sarjana adalah proses atau sistem linear. Sistem linear adalah sistem yang propertinya dapat dijelaskan dan diketahui dengan menjumlahkan komponen-komponen pembentuknya.
 
-Sebagai contoh, perhatikan suatu perusahaan hipotetikal dimana model prediksi revenue yang perusahaan dapatkan dalam suatu bulan bergantung pada $20%$ revenue pada bulan sebelumnya ditambah dengan $80%$ penjualan. Perusahaan ini menargetkan penjualan di tahun ini sebesar $500$ buah dengan harga barang $1 \$$. Jika revenue yang didapatkan pada bulan desember tahun lalu sebesar $10000$, kita dapat memprediksi revenue untuk $12$ bulan kedepan. sistem ini dapat dimodelkan dengan persamaan
+Sebagai contoh, perhatikan suatu perusahaan hipotetikal dimana model prediksi revenue yang perusahaan dapatkan dalam suatu bulan bergantung pada $20%$ revenue pada bulan sebelumnya ditambah dengan $80%$ penjualan. Perusahaan ini menargetkan penjualan di tahun ini sebesar $500$ buah dengan harga barang $1 dollar$. Jika revenue yang didapatkan pada bulan desember tahun lalu sebesar $5000$ dollar, kita dapat memprediksi revenue untuk $12$ bulan kedepan. sistem ini dapat dimodelkan dengan persamaan
 
 $$R_{n+1} = 0.2 \times R_n + 0.8 \times q \times P$$
 
