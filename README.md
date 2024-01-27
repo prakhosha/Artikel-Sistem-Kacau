@@ -13,7 +13,7 @@
 
 # Sistem Kacau
 
-**Tidak semua sistem dapat terprediksi**
+**Tidak semua sistem dapat diprediksi**
 
 *Posted on January 2024*
 
